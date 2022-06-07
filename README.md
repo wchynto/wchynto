@@ -3,8 +3,7 @@ Hi 👋 My name is Wahyu Cahyanto Bayu Agung
 
 Web Developer
 -------------
-
-I am a passionate web developer with learning experience from high school. i can work on the project using express or laravel framework.
+I really like technology, especially web development, I know the world of web programming since high school. I can work with express and laravel framework to build website, and have knowledges about vue
 
 *   🌍  I'm based in Indonesia
 *   ✉️  You can contact me at [wchynto.dev@gmail.com](mailto:wchynto.dev@gmail.com)
