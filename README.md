@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wahyu Cahyanto Bayu Agung</h1>
-<h3 align="center">I really like technology, especially web development, I know the world of web programming since high school. I can work with express and laravel framework to build website, and have knowledges about vue I am a person who likes new things and fast learner. I am also a person who is easy to communicate and can work as a team</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wchynto&label=Profile%20views&color=0e75b6&style=flat" alt="wchynto" /> </p>
-
-- 🔭 I’m currently studyng on **Informatics Engineering at Trunojoyo Madura University**
+- 🔭 I’m currently studying on **Informatics Engineering at Trunojoyo Madura University**
 
 - 🌱 I’m currently learning **Fullstack Web Development**
 
