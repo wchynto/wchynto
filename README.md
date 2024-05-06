@@ -26,6 +26,8 @@ struct Person
 int main()
 {
     Person p;
+
+    // personal
     p.firstname = "Wahyu Cahyanto";
     p.lastname = "Bayu Agung";
     p.email = "wchynto.dev@gmail.com";
@@ -57,6 +59,7 @@ int main()
     p.skills[10].name = "Git";
     p.skills[11].name = "Docker";
     p.skills[12].name = "Linux";
+}
 }
 
 ```
