@@ -60,6 +60,5 @@ int main()
     p.skills[11].name = "Docker";
     p.skills[12].name = "Linux";
 }
-}
 
 ```
